@@ -1,0 +1,5 @@
+com\odk\contacts\app\NewServlet.class
+com\odk\contacts\app\ContactManager.class
+com\odk\contacts\app\Contact.class
+com\odk\contacts\app\JakartaRestConfiguration.class
+com\odk\contacts\app\resources\JakartaEE10Resource.class
